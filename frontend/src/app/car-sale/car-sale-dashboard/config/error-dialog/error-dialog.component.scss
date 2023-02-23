@@ -1,0 +1,16 @@
+.dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+span {
+  font-size: 3rem !important;
+  font-weight: 100 !important;
+  color: #ff0000 !important;
+  border: 1px solid #ff0000;
+  border-radius: 50%;
+  padding: 5% 7%;
+  margin: 10px 0px 20px 0px;
+}
